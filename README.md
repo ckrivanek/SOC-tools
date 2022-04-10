@@ -18,6 +18,8 @@ A list of freely available tools to assist the regular Security Operations Cente
 ## OSINT
 * Shodan | https://www.shodan.io/
 * IP location | https://www.iplocation.net/
+* OSINT Framework | https://osintframework.com/
+* Phone Area Codes | https://www.whitepages.com/phone/US
 
 
 ## Email
@@ -39,10 +41,16 @@ A list of freely available tools to assist the regular Security Operations Cente
 * Epoch Converter | https://www.epochconverter.com/
 * explainshell | https://explainshell.com/
 
+## Software
+* Machinae | https://github.com/HurricaneLabs/machinae
+* Sooty | https://github.com/TheresAFewConors/Sooty
 
 ## References
 * CVE Details | https://www.cvedetails.com/
 * Exploit Database | https://www.exploit-db.com/
 * MAC Vendor | https://macvendors.com/
 * FileInfo | https://fileinfo.com/
-* 
+* xCyclopedia | https://strontic.github.io/xcyclopedia/
+* The Windows Binary Index | https://winbindex.m417z.com/
+* Palo Alto Applipedia | https://applipedia.paloaltonetworks.com/
+* Windows Securitiy Logs | https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/
